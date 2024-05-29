@@ -1,28 +1,7 @@
 {
     "keyboard_name": "Laptop 16 RGB Macropad",
-    "manufacturer": "Framework",
-    "maintainer": "JohnAZoidberg",
-    "bootloader": "rp2040",
-    "features": {
-        "bootmagic": false,
-        "mousekey": false,
-        "extrakey": true,
-        "console": true,
-        "command": false,
-        "nkro": true,
-        "audio": false
-    },
-    "debounce": 5,
-    "processor": "RP2040",
-    "url": "https://frame.work/de/en/products/laptop16-diy-amd-7040",
     "usb": {
-        "device_version": "0.2.2",
         "pid": "0x0013",
-        "vid": "0x32AC",
-        "force_nkro": true
-    },
-    "backlight": {
-        "pin": "GP25"
     },
     "layouts": {
         "LAYOUT": {
